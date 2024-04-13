@@ -3,6 +3,8 @@
     "Name": "Catacombs of solaris",
     "IconUrl": "https://img.itch.zone/aW1nLzUyMzAxNTAucG5n/347x500/ZU3zDW.png",
     "DownloadUrl": "https://github.com/theCore034/GameCentre/raw/main/solaris.zip",
-    "MainExeName": "catacombs.exe"
+    "MainExeName": "catacombs",
+    "Size": "100 MB",
+    "Description": "This is an example game description for Game 1."
   }
 ]
